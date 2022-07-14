@@ -16,8 +16,6 @@ collaboration and knowledge sharing happened through open-source.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lie5860&show_icons=true&theme=gotham" alt="lie5860" />
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/lie5860/lie5860/blob/main/code.gif?raw=true" width="50%" />
-
 **languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,6 +26,7 @@ collaboration and knowledge sharing happened through open-source.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br /><br />
 
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie5860&layout=compact&theme=gotham" width="40%" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie5860&layout=compact&theme=gotham" width="50%" />
+<img align="right" alt="GIF" src="https://github.com/lie5860/lie5860/blob/main/code.gif?raw=true" width="50%" />
 
 
