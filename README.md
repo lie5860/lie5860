@@ -27,6 +27,6 @@ collaboration and knowledge sharing happened through open-source.
 <br /><br />
 
 <img align="left" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie5860&layout=compact&theme=gotham" width="40%" />
-<img align="right" alt="GIF" src="https://github.com/lie5860/lie5860/blob/main/code.gif?raw=true" width="40%" />
+<img align="left" alt="GIF" src="https://github.com/lie5860/lie5860/blob/main/code.gif?raw=true" width="40%" />
 
 
