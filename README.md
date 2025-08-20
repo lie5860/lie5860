@@ -6,7 +6,7 @@ Hi, I'm [lie](https://github.com/lie5860), a passionate full stack web developer
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
---
+---
 
 ## 📈 my github stats
 
@@ -20,7 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+      <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lie5860&show_icons=true&theme=gotham" alt="lie5860's GitHub Stats" />
@@ -33,19 +33,3 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   </table>
 </div>
 
----
-
-## Most Used Languages & Activity
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie5860&layout=compact&theme=gotham" alt="Top Languages" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lie5860&theme=gotham" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
