@@ -8,7 +8,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-## �� GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lie5860&show_icons=true&theme=gotham" alt="lie5860's GitHub Stats" />
@@ -16,22 +16,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-## ��️ Languages and Tools
+## Languages and Tools
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        
 **Technologies I work with:**
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
       </td>
       <td width="50%" valign="top">
         <img src="https://github.com/lie5860/lie5860/blob/main/code.gif?raw=true" alt="Coding GIF" style="width:100%;" />
@@ -42,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-## �� Most Used Languages & Activity
+## Most Used Languages & Activity
 
 <div align="center">
   <table>
