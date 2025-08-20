@@ -2,10 +2,6 @@
 
 [comment]: <> (<a href="https://twitter.com/lie5860"><img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>)
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lie5860.lie5860" alt="visitors" />
-</p>
-
 Hi, I'm [lie](https://github.com/lie5860), a passionate full stack web developer and software engineer from China. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
