@@ -6,9 +6,7 @@ Hi, I'm [lie](https://github.com/lie5860), a passionate full stack web developer
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
----
-
-## 📈 my github stats
+### 📈 my github stats
 
 <div align="center">
   <table>
